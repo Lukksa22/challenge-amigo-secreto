@@ -35,7 +35,9 @@ function sortearAmigo() {
     let texto = `El amigo secreto sorteado es: ${nombreElegido}`;
     
     let resultado = document.getElementById("resultado");
+    let listaAmigos = document.getElementById("listaAmigos");
     resultado.textContent = '';
+    listaAmigos.textContent = '';
     crearElementoLi(resultado, texto);
 }
 
