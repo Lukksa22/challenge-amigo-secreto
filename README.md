@@ -3,7 +3,8 @@
 ## Descripción
 &nbsp;Este es un proyecto que forma parte del curso Logica de programacion con JavaScript de alura latam bajo el programa Oracle Next Education (ONE).
 
-Amigo Secreto es una aplicación web que permite a los usuarios ingresar nombres de amigos en una lista y realizar un sorteo aleatorio para determinar quién es el "amigo secreto". Esta aplicación está desarrollada en JavaScript, HTML y CSS. Puedes encontrar la aplicacion online [acá](https://lukksa22.github.io/challenge-amigo-secreto/)
+Amigo Secreto es una aplicación web que permite a los usuarios ingresar nombres de amigos en una lista y realizar un sorteo aleatorio para determinar quién es el "amigo secreto". Esta aplicación está desarrollada en JavaScript, HTML y CSS. Puedes encontrar la aplicacion online <a href="https://lukksa22.github.io/challenge-amigo-secreto/" target="_blank">acá</a>.
+
 ## Funcionalidades
 
 - **Agregar nombres:** Los usuarios pueden escribir el nombre de un amigo en un campo de texto y añadirlo a una lista visible al hacer clic en "Añadir".
